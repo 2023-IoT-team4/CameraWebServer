@@ -8,7 +8,7 @@ ESP32_CAM 웹 서버 예제를 이용해서 외부에서도 Streaming 서비스�
 ESP32-CAM 보드 코드내에서 MobileNetV1 모델을 이용해 Cat-Dog classfication을 진행합니다.
 
 
-## 본 프로젝트에서는 사용되지는 않았습니다!
+## 본 프로젝트에서는 사용되지 않았습니다!
 
 ## 참고사항
 
